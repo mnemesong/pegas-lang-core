@@ -1,0 +1,18 @@
+{
+    "name": "pegas-lang-core",
+    "license": "MIT",
+    "tags": [
+        "pegas"
+    ],
+    "description": "Pegas language haxe core",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/pegas-lang-core/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/pegas-lang-core",
+    "classPath": "hx/src",
+    "dependencies": {
+        "moon-peg": ""
+    }
+}

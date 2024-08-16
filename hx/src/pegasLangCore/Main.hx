@@ -1,0 +1,5 @@
+package pegasLangCore;
+
+class Main {
+    
+}
